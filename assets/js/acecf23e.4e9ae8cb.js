@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmi_sitio_docuprueba_4=globalThis.webpackChunkmi_sitio_docuprueba_4||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/web4Docuprueba/blog","blogTitle":"Blog","authorsListPath":"/web4Docuprueba/blog/authors"}')}}]);

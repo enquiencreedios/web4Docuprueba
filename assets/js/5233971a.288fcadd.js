@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmi_sitio_docuprueba_4=globalThis.webpackChunkmi_sitio_docuprueba_4||[]).push([[402],{892(o){o.exports=JSON.parse('{"metadata":{"permalink":"/web4Docuprueba/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
